@@ -1,6 +1,6 @@
 ## Hello, wor... Nevermind.
 ### I'm Gustavo, a Python and Rust developer.
-(How you can see there 👇)
+(How you can see there 👇).
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)-->
