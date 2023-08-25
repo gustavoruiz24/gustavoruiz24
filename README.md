@@ -8,7 +8,7 @@
 
 ##
 
-if ( you want contact me ) { let's talk; };
+*if ( you want to contact me ) { let's talk; };*
 
 <div> 
     <a href="https://www.instagram.com/wh0.1s.gusta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
