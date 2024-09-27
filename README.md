@@ -13,9 +13,9 @@
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoruiz24&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thenuka" width="410"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoruiz24&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thenuka" width="400"/>
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gustavoruiz24&show_icons=true&locale=en&theme=tokyonight" alt="thenuka" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gustavoruiz24&show_icons=true&locale=en&theme=tokyonight" alt="thenuka" width="400"/>
 </p>
 
 <br><br><br><br><br><br><br><br>
