@@ -1,4 +1,4 @@
- <img align="right" height="270px" alt="guy" width="350" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" /> </a>
+ <img align="right" height="270px" alt="guy" width="300" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" /> </a>
  
 ### Hello world! I'm Gustavo 👋🏾.
 > I'm an 18-year-old guy who is passionate about physics and technologies
